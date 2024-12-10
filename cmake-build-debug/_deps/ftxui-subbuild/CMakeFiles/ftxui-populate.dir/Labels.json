@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate"
+		},
+		{
+			"file" : "//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.rule"
+		},
+		{
+			"file" : "//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete.rule"
+		},
+		{
+			"file" : "//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build.rule"
+		},
+		{
+			"file" : "//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure.rule"
+		},
+		{
+			"file" : "//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download.rule"
+		},
+		{
+			"file" : "//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install.rule"
+		},
+		{
+			"file" : "//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir.rule"
+		},
+		{
+			"file" : "//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch_disconnected.rule"
+		},
+		{
+			"file" : "//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test.rule"
+		},
+		{
+			"file" : "//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update_disconnected.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ftxui-populate"
+		],
+		"name" : "ftxui-populate"
+	}
+}

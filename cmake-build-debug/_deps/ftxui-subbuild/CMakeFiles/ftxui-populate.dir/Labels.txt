@@ -1,0 +1,14 @@
+# Target labels
+ ftxui-populate
+# Source files and their labels
+//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate
+//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.rule
+//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete.rule
+//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build.rule
+//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure.rule
+//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download.rule
+//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install.rule
+//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir.rule
+//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch_disconnected.rule
+//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test.rule
+//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update_disconnected.rule

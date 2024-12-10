@@ -1,0 +1,3 @@
+//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.dir
+//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/edit_cache.dir
+//wsl.localhost/Ubuntu/home/hnakamura/vsc_projects/textEditor/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/rebuild_cache.dir

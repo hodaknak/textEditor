@@ -1,0 +1,14 @@
+# Target labels
+ ftxui-populate
+# Source files and their labels
+/home/hnakamura/vsc_projects/textEditor/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate
+/home/hnakamura/vsc_projects/textEditor/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.rule
+/home/hnakamura/vsc_projects/textEditor/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete.rule
+/home/hnakamura/vsc_projects/textEditor/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build.rule
+/home/hnakamura/vsc_projects/textEditor/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure.rule
+/home/hnakamura/vsc_projects/textEditor/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download.rule
+/home/hnakamura/vsc_projects/textEditor/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install.rule
+/home/hnakamura/vsc_projects/textEditor/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir.rule
+/home/hnakamura/vsc_projects/textEditor/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch_disconnected.rule
+/home/hnakamura/vsc_projects/textEditor/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test.rule
+/home/hnakamura/vsc_projects/textEditor/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update_disconnected.rule
