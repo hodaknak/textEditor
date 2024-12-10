@@ -17,6 +17,8 @@ class File {
 
     std::string getName() const;
 
+    bool write() const;
+
     static std::string openFile(const std::filesystem::path &fileName);
     static std::vector<File> openFolder(const std::filesystem::path &directory);
 };

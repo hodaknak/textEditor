@@ -2,9 +2,10 @@
 
 #include <iostream>
 #include <fstream>
+#include <utility>
 
 File::File(std::filesystem::path p) {
-    path = p;
+    path = std::move(p);
     data = openFile(path);
 }
 
@@ -18,6 +19,20 @@ void File::setData(const std::string &d) {
 
 std::string File::getName() const {
     return path.stem().string() + path.extension().string();
+}
+
+bool File::write() const {
+    if (exists(path)) {
+        std::ofstream file(path);
+
+        file << data;
+
+        file.close();
+
+        return true;
+    } else {
+        return false;
+    }
 }
 
 std::string File::openFile(const std::filesystem::path &fileName) {

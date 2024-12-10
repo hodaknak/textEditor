@@ -55,11 +55,11 @@ int main(int argc, char **argv) {
 
     std::vector<ftxui::Component> fileButtons;
 
+    fileButtons.reserve(files.size());
     for (auto& file : files) {
         fileButtons.push_back(ftxui::Button(file.getName(), [&] {
             currentFile = &file;
-            code = file.getData();
-            fileName = file.getName();
+            code = currentFile->getData();
         }));
     }
 
@@ -71,13 +71,13 @@ int main(int argc, char **argv) {
     ftxui::Component container = editor;
     container = ResizableSplitLeft(left, container, &left_size);
 
-    ftxui::Component saveButton = ftxui::Button("Save", [&] { std::cout << "Saving..." << std::endl; }, styles::saveButton());
+    ftxui::Component saveButton = ftxui::Button("Save", [&] { currentFile->write(); }, styles::saveButton());
     ftxui::Component exitButton = ftxui::Button("Exit", [&] { screen.Exit(); }, styles::exitButton());
 
     ftxui::Component buttons = ftxui::Container::Horizontal({saveButton, exitButton});
 
     auto editorDocument = [&] {
-        return ftxui::window(ftxui::text(fileName), container->Render()) | ftxui::flex;
+        return ftxui::window(ftxui::text(currentFile->getName()), container->Render()) | ftxui::flex;
     };
 
     auto footerDocument = [&] {
